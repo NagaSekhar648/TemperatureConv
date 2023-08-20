@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+hr{
+  width:25%;
+  margin-bottom: 1em;
+  background: linear-gradient(0.25turn,#0096d0, #1d4e9d, #284995, #463e81, #762c61, #b91435, #e3051a, #940c22);
+  height: 4px;
+}
+.boxm{
+    text-align: center;
+}
+.b1{
+   -webkit-appearance: none;
+   background: linear-gradient(0.25turn,#0096d0, #1d4e9d, #284995, #463e81, #762c61, #b91435, #e3051a, #940c22);
+   border-radius:10px;
+}
